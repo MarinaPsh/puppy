@@ -4,8 +4,3 @@ n2
 nl3
 Fourth line in f1.txt
 Fifth line
-<<<<<<< HEAD
-adding line into master branch
-=======
-just  branch update
->>>>>>> work-br

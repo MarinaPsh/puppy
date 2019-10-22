@@ -1,0 +1,97 @@
+commit 38913c6cb394220f2cbc99d51f81689fc64739d8
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 13:01:39 2019 +0300
+
+    Revert "Only f1.txt is added to commit"
+    
+    This reverts commit 27588bba371013416d0d4335e841cede326c1387.
+
+commit 8abbd6d1dd4a2544893ea20db8e9c608a7c949bc
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 13:00:48 2019 +0300
+
+    Now all are there
+
+commit 27588bba371013416d0d4335e841cede326c1387
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 12:59:22 2019 +0300
+
+    Only f1.txt is added to commit
+
+commit 5d1babb3dcdad0885641581476a96c6f7793fa8b
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 09:39:19 2019 +0300
+
+    Update in f1.txt
+
+commit 30c632dc0aaed8147196fab2532a8922deeaaca0
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 09:28:05 2019 +0300
+
+    All there
+
+commit 46bd68ea9baa3dc2460bfbe8b0f981be863f5a4e
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 09:23:50 2019 +0300
+
+    Now f10 included into commit
+
+commit 3c0c86320b2871740da0d5cd3e87a4681c12e376
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 09:06:14 2019 +0300
+
+    Nine filea are in place
+
+commit 6b387a7370693bd3cd34e802fd3ab877b8fc1dec
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 09:01:04 2019 +0300
+
+    Eight files are in place
+
+commit 1cc0c85255eec44621aaf0150f7baa0f905f7fc1
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 08:53:12 2019 +0300
+
+    Updates
+
+commit 90607dd89599903f4b4013dcb42bac696a1ed7fd
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 08:48:22 2019 +0300
+
+    Five files
+
+commit 9e7c2a2b86660d7cbc1392d7f31945631886ec0f
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 08:44:19 2019 +0300
+
+    Added four files
+
+commit a4bbf4de65ac951e8a0e99595932c34351e70f4a
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 08:41:34 2019 +0300
+
+    Three are commited
+
+commit 7c43d483da778e1c2e27c1ac9ff37ee2cc583d11
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 08:40:42 2019 +0300
+
+    Both commited
+
+commit fa3f58617c32c1b3a4ff0debe63d07cafc5a7d9d
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 08:38:20 2019 +0300
+
+    Message2
+
+commit 3f1bd310019906b7bfda3fa7e099978855e19b1e
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 08:36:26 2019 +0300
+
+    Message
+
+commit 2d586b5ecf83058a1d5e67bf81df0d489b9d2c14
+Author: MarinaPsh <marina.pasheeva@gmail.com>
+Date:   Tue Oct 22 08:17:31 2019 +0300
+
+    f1.txt
